@@ -1,0 +1,5 @@
+discord.py==1.4.1
+asyncio==3.4.3
+DateTime==4.3
+requests==2.24.0
+captcha==0.3
